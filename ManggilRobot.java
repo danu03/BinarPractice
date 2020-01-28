@@ -1,0 +1,3 @@
+class ManggilRobot extends Robot {
+
+}
